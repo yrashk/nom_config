@@ -1,0 +1,12 @@
+[package]
+name = "nom_config"
+version = "0.1.0"
+authors = ["Yurii Rashkovskii <yrashk@gmail.com>"]
+license = "MIT"
+description = "nom helpers for carrying parser configuration"
+homepage = "https://github.com/yrashk/nom_config"
+repository = "https://github.com/yrashk/nom_config"
+documentation = "https://docs.rs/crate/nom_config"
+
+[dependencies]
+nom = "~3"
